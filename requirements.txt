@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-gpu
+cudatoolkit
+keras
+numpy
+tqdm
+opencv-python
+matplotlib
+seaborn
+pandas

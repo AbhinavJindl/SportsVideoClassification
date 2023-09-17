@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+images/
+*.pkl
+EfficientNetB0
+EfficientNetB0_full
+VGG16
+VGG16_full
+ResNet50
+ResNet50_full
+data
